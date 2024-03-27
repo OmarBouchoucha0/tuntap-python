@@ -1,5 +1,3 @@
-# tuntap-python
-
 # # refrences
 tun_tap = https://en.wikipedia.org/wiki/TUN/TAP
 ps : you can't change the capabilities with setcap(linux) on a python sctipt you hace to set 
@@ -10,4 +8,5 @@ for testing :
 ping -I <name of tun> <adress on that tunnel> 
 
 tcp = https://datatracker.ietf.org/doc/html/rfc793
+
 
