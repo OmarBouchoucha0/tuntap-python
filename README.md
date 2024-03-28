@@ -1,7 +1,7 @@
 # tuntap-python
 a implementation of the tuntap devices on linux to test tcp connetcion
 
-# # refrences
+## refrences
 tun_tap = https://en.wikipedia.org/wiki/TUN/TAP
 ps : you can't change the capabilities with setcap(linux) on a python sctipt you hace to set 
 to the executable itself(not recommanded) , the solution i cameup with is to make a wrapper
